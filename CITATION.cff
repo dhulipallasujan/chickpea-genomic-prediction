@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "For the software, cite this repository. For the data, cite the ICRISAT CicerSeq portal and the study listed under references. Follow the data-use request shown by ICRISAT."
+title: "Chickpea genomic prediction across seasons"
+version: 2.1.0
+date-released: 2026-10-21
+type: software
+authors:
+  - name: "Sujan"
+license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Varshney
+        given-names: Rajeev K.
+    title: "A chickpea genetic variation map based on the sequencing of 3,366 genomes"
+    year: 2021
+    journal: Nature
+    doi: 10.1038/s41586-021-04066-1

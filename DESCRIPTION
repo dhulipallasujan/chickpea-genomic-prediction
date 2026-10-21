@@ -1,0 +1,8 @@
+Package: chickpeaGenPred
+Title: Chickpea Genomic Prediction Across Seasons
+Version: 2.1.0
+Authors@R: person(given = "Sujan", role = c("aut", "cre"))
+Description: Reproducible grouped cross-validation, cross-environment prediction, and marker-density sensitivity analysis for chickpea grain yield using public CicerSeq data.
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.1.0)

@@ -1,0 +1,2 @@
+"environments","trait","phenotype_records","unique_lines","paired_lines","marker_matched_lines","chromosomes","source_marker_step","post_qc_stride","markers_full_qc","markers_compact","marker_missing_before_imputation","min_maf","max_marker_missing","groups","pc_count_for_clusters","outer_folds","core_repeats","density_repeats","inner_folds","lambda_grid","seed"
+"ICRISAT_2014-15;ICRISAT_2015-16","GY",5726,2926,2800,2926,8,500,5,955,195,0.0609824179678134,0.05,0.2,10,10,5,10,3,3,"1;10;100;1000",20261021

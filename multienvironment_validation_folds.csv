@@ -1,0 +1,197 @@
+"scenario","repeat_id","fold","model","n_train","n_test","selected_lambda","inner_cv_rmse"
+"Grouped CV1 - new genetic clusters",1,1,"main",3835,1891,1000,527.309765859269
+"Grouped CV1 - new genetic clusters",1,1,"gxe",3835,1891,1000,528.011120386963
+"Grouped CV1 - new genetic clusters",1,2,"main",4828,898,1000,536.987640400462
+"Grouped CV1 - new genetic clusters",1,2,"gxe",4828,898,1000,537.657395516275
+"Grouped CV1 - new genetic clusters",1,3,"main",4614,1112,1000,522.241388314294
+"Grouped CV1 - new genetic clusters",1,3,"gxe",4614,1112,1000,521.919129502101
+"Grouped CV1 - new genetic clusters",1,4,"main",4778,948,1000,524.175957911139
+"Grouped CV1 - new genetic clusters",1,4,"gxe",4778,948,1000,525.633512843245
+"Grouped CV1 - new genetic clusters",1,5,"main",4849,877,1000,526.128060595116
+"Grouped CV1 - new genetic clusters",1,5,"gxe",4849,877,1000,529.507429581902
+"Grouped CV1 - new genetic clusters",2,1,"main",4156,1570,1000,522.396660337005
+"Grouped CV1 - new genetic clusters",2,1,"gxe",4156,1570,1000,525.400703243393
+"Grouped CV1 - new genetic clusters",2,2,"main",4507,1219,1000,548.048353141652
+"Grouped CV1 - new genetic clusters",2,2,"gxe",4507,1219,1000,545.958591863992
+"Grouped CV1 - new genetic clusters",2,3,"main",4849,877,1000,520.845193097419
+"Grouped CV1 - new genetic clusters",2,3,"gxe",4849,877,1000,523.304020696133
+"Grouped CV1 - new genetic clusters",2,4,"main",4778,948,1000,521.107216412413
+"Grouped CV1 - new genetic clusters",2,4,"gxe",4778,948,1000,524.284087653351
+"Grouped CV1 - new genetic clusters",2,5,"main",4614,1112,1000,527.994261908935
+"Grouped CV1 - new genetic clusters",2,5,"gxe",4614,1112,1000,528.882658805581
+"Grouped CV1 - new genetic clusters",3,1,"main",3884,1842,1000,533.901048195887
+"Grouped CV1 - new genetic clusters",3,1,"gxe",3884,1842,1000,530.84630224179
+"Grouped CV1 - new genetic clusters",3,2,"main",4778,948,1000,535.927389516194
+"Grouped CV1 - new genetic clusters",3,2,"gxe",4778,948,1000,536.506708288391
+"Grouped CV1 - new genetic clusters",3,3,"main",4130,1596,1000,530.790506106123
+"Grouped CV1 - new genetic clusters",3,3,"gxe",4130,1596,1000,534.455557427069
+"Grouped CV1 - new genetic clusters",3,4,"main",4601,1125,1000,514.937735492408
+"Grouped CV1 - new genetic clusters",3,4,"gxe",4601,1125,1000,514.966159459208
+"Grouped CV1 - new genetic clusters",3,5,"main",5511,215,1000,535.880249807489
+"Grouped CV1 - new genetic clusters",3,5,"gxe",5511,215,1000,539.003919598007
+"Grouped CV1 - new genetic clusters",4,1,"main",4589,1137,1000,527.266597210479
+"Grouped CV1 - new genetic clusters",4,1,"gxe",4589,1137,1000,528.006724801568
+"Grouped CV1 - new genetic clusters",4,2,"main",4322,1404,1000,524.705759859554
+"Grouped CV1 - new genetic clusters",4,2,"gxe",4322,1404,1000,526.247356530681
+"Grouped CV1 - new genetic clusters",4,3,"main",4601,1125,1000,522.043119195441
+"Grouped CV1 - new genetic clusters",4,3,"gxe",4601,1125,1000,522.725579171056
+"Grouped CV1 - new genetic clusters",4,4,"main",4614,1112,1000,540.119213461417
+"Grouped CV1 - new genetic clusters",4,4,"gxe",4614,1112,1000,537.272813828393
+"Grouped CV1 - new genetic clusters",4,5,"main",4778,948,1000,523.958624657264
+"Grouped CV1 - new genetic clusters",4,5,"gxe",4778,948,1000,526.13303911753
+"Grouped CV1 - new genetic clusters",5,1,"main",4375,1351,1000,521.330480304919
+"Grouped CV1 - new genetic clusters",5,1,"gxe",4375,1351,1000,522.531628556394
+"Grouped CV1 - new genetic clusters",5,2,"main",4342,1384,1000,520.785695378079
+"Grouped CV1 - new genetic clusters",5,2,"gxe",4342,1384,1000,523.815369473273
+"Grouped CV1 - new genetic clusters",5,3,"main",4530,1196,1000,516.68968666747
+"Grouped CV1 - new genetic clusters",5,3,"gxe",4530,1196,1000,517.866032949533
+"Grouped CV1 - new genetic clusters",5,4,"main",5043,683,1000,529.811756340029
+"Grouped CV1 - new genetic clusters",5,4,"gxe",5043,683,1000,534.216347646377
+"Grouped CV1 - new genetic clusters",5,5,"main",4614,1112,1000,530.536664480243
+"Grouped CV1 - new genetic clusters",5,5,"gxe",4614,1112,1000,530.901707515294
+"Grouped CV1 - new genetic clusters",6,1,"main",4366,1360,1000,531.792567780053
+"Grouped CV1 - new genetic clusters",6,1,"gxe",4366,1360,1000,532.496953234025
+"Grouped CV1 - new genetic clusters",6,2,"main",3647,2079,1000,544.764104860769
+"Grouped CV1 - new genetic clusters",6,2,"gxe",3647,2079,1000,543.166981512399
+"Grouped CV1 - new genetic clusters",6,3,"main",5037,689,1000,531.064965423742
+"Grouped CV1 - new genetic clusters",6,3,"gxe",5037,689,1000,532.281741041563
+"Grouped CV1 - new genetic clusters",6,4,"main",4849,877,1000,522.205639995933
+"Grouped CV1 - new genetic clusters",6,4,"gxe",4849,877,1000,523.960326311321
+"Grouped CV1 - new genetic clusters",6,5,"main",5005,721,1000,518.289983022319
+"Grouped CV1 - new genetic clusters",6,5,"gxe",5005,721,1000,520.555942057173
+"Grouped CV1 - new genetic clusters",7,1,"main",4155,1571,1000,524.965922212391
+"Grouped CV1 - new genetic clusters",7,1,"gxe",4155,1571,1000,528.169515475881
+"Grouped CV1 - new genetic clusters",7,2,"main",4567,1159,1000,554.104312171959
+"Grouped CV1 - new genetic clusters",7,2,"gxe",4567,1159,1000,555.411253429583
+"Grouped CV1 - new genetic clusters",7,3,"main",4790,936,1000,526.308194833807
+"Grouped CV1 - new genetic clusters",7,3,"gxe",4790,936,1000,530.016012004376
+"Grouped CV1 - new genetic clusters",7,4,"main",4778,948,1000,524.369785356416
+"Grouped CV1 - new genetic clusters",7,4,"gxe",4778,948,1000,527.857970024749
+"Grouped CV1 - new genetic clusters",7,5,"main",4614,1112,1000,533.032420813624
+"Grouped CV1 - new genetic clusters",7,5,"gxe",4614,1112,1000,534.356854054889
+"Grouped CV1 - new genetic clusters",8,1,"main",4027,1699,1000,543.217074132226
+"Grouped CV1 - new genetic clusters",8,1,"gxe",4027,1699,1000,535.651288582852
+"Grouped CV1 - new genetic clusters",8,2,"main",4448,1278,1000,559.527510979342
+"Grouped CV1 - new genetic clusters",8,2,"gxe",4448,1278,1000,563.773307732782
+"Grouped CV1 - new genetic clusters",8,3,"main",3925,1801,1000,547.648978104419
+"Grouped CV1 - new genetic clusters",8,3,"gxe",3925,1801,1000,547.28644646693
+"Grouped CV1 - new genetic clusters",8,5,"main",4778,948,1000,514.689054528892
+"Grouped CV1 - new genetic clusters",8,5,"gxe",4778,948,1000,516.352047978532
+"Grouped CV1 - new genetic clusters",9,1,"main",3291,2435,1000,577.554339339737
+"Grouped CV1 - new genetic clusters",9,1,"gxe",3291,2435,1000,572.762052566998
+"Grouped CV1 - new genetic clusters",9,2,"main",4260,1466,1000,529.276864645204
+"Grouped CV1 - new genetic clusters",9,2,"gxe",4260,1466,1000,532.6875629904
+"Grouped CV1 - new genetic clusters",9,3,"main",4778,948,1000,519.935567791552
+"Grouped CV1 - new genetic clusters",9,3,"gxe",4778,948,1000,520.649365032682
+"Grouped CV1 - new genetic clusters",9,5,"main",4849,877,1000,521.736878024773
+"Grouped CV1 - new genetic clusters",9,5,"gxe",4849,877,1000,524.539792756895
+"Grouped CV1 - new genetic clusters",10,1,"main",3411,2315,1000,555.682241815713
+"Grouped CV1 - new genetic clusters",10,1,"gxe",3411,2315,1000,549.20455739318
+"Grouped CV1 - new genetic clusters",10,2,"main",5252,474,1000,531.026921466424
+"Grouped CV1 - new genetic clusters",10,2,"gxe",5252,474,1000,533.180301911719
+"Grouped CV1 - new genetic clusters",10,3,"main",4614,1112,1000,533.943056438573
+"Grouped CV1 - new genetic clusters",10,3,"gxe",4614,1112,1000,533.477136559833
+"Grouped CV1 - new genetic clusters",10,4,"main",4778,948,1000,521.352728274414
+"Grouped CV1 - new genetic clusters",10,4,"gxe",4778,948,1000,524.347681891883
+"Grouped CV1 - new genetic clusters",10,5,"main",4849,877,1000,558.587123146601
+"Grouped CV1 - new genetic clusters",10,5,"gxe",4849,877,1000,567.52778941693
+"CV2 - known line in other season",1,1,"main",4510,1090,1000,504.239519778106
+"CV2 - known line in other season",1,1,"gxe",4510,1090,1000,505.733187127598
+"CV2 - known line in other season",1,2,"main",4450,1150,1000,511.709937259007
+"CV2 - known line in other season",1,2,"gxe",4450,1150,1000,513.748496575114
+"CV2 - known line in other season",1,3,"main",4438,1162,1000,499.205712448023
+"CV2 - known line in other season",1,3,"gxe",4438,1162,1000,500.646327304077
+"CV2 - known line in other season",1,4,"main",4502,1098,1000,505.189953462173
+"CV2 - known line in other season",1,4,"gxe",4502,1098,1000,507.198581051419
+"CV2 - known line in other season",1,5,"main",4500,1100,1000,504.176463143156
+"CV2 - known line in other season",1,5,"gxe",4500,1100,1000,507.063966947836
+"CV2 - known line in other season",2,1,"main",4457,1143,1000,508.627031388102
+"CV2 - known line in other season",2,1,"gxe",4457,1143,1000,511.208665150514
+"CV2 - known line in other season",2,2,"main",4485,1115,1000,505.841730550379
+"CV2 - known line in other season",2,2,"gxe",4485,1115,1000,508.353807697859
+"CV2 - known line in other season",2,3,"main",4443,1157,1000,496.387519554444
+"CV2 - known line in other season",2,3,"gxe",4443,1157,1000,496.237760074511
+"CV2 - known line in other season",2,4,"main",4522,1078,1000,499.965435870533
+"CV2 - known line in other season",2,4,"gxe",4522,1078,1000,501.304882178742
+"CV2 - known line in other season",2,5,"main",4493,1107,1000,507.592148961131
+"CV2 - known line in other season",2,5,"gxe",4493,1107,1000,508.980600621314
+"CV2 - known line in other season",3,1,"main",4470,1130,1000,502.007647597782
+"CV2 - known line in other season",3,1,"gxe",4470,1130,1000,502.218899684286
+"CV2 - known line in other season",3,2,"main",4439,1161,1000,510.765561181664
+"CV2 - known line in other season",3,2,"gxe",4439,1161,1000,512.206018471521
+"CV2 - known line in other season",3,3,"main",4490,1110,1000,502.507232111831
+"CV2 - known line in other season",3,3,"gxe",4490,1110,1000,504.517309151941
+"CV2 - known line in other season",3,4,"main",4444,1156,1000,502.514592406696
+"CV2 - known line in other season",3,4,"gxe",4444,1156,1000,503.152639412137
+"CV2 - known line in other season",3,5,"main",4557,1043,1000,500.414301046669
+"CV2 - known line in other season",3,5,"gxe",4557,1043,1000,501.987974419012
+"CV2 - known line in other season",4,1,"main",4523,1077,1000,508.66890784192
+"CV2 - known line in other season",4,1,"gxe",4523,1077,1000,510.147129850368
+"CV2 - known line in other season",4,2,"main",4436,1164,1000,508.424581892561
+"CV2 - known line in other season",4,2,"gxe",4436,1164,1000,510.569907342152
+"CV2 - known line in other season",4,3,"main",4508,1092,1000,507.363296368884
+"CV2 - known line in other season",4,3,"gxe",4508,1092,1000,510.185541796704
+"CV2 - known line in other season",4,4,"main",4457,1143,1000,499.992214171078
+"CV2 - known line in other season",4,4,"gxe",4457,1143,1000,501.358524351247
+"CV2 - known line in other season",4,5,"main",4476,1124,1000,497.371460512615
+"CV2 - known line in other season",4,5,"gxe",4476,1124,1000,498.100214462795
+"CV2 - known line in other season",5,1,"main",4506,1094,1000,508.266212570126
+"CV2 - known line in other season",5,1,"gxe",4506,1094,1000,510.12409563488
+"CV2 - known line in other season",5,2,"main",4512,1088,1000,505.982922798264
+"CV2 - known line in other season",5,2,"gxe",4512,1088,1000,506.890399853113
+"CV2 - known line in other season",5,3,"main",4495,1105,1000,503.606357689603
+"CV2 - known line in other season",5,3,"gxe",4495,1105,1000,504.738165408849
+"CV2 - known line in other season",5,4,"main",4467,1133,1000,505.243350159857
+"CV2 - known line in other season",5,4,"gxe",4467,1133,1000,506.016187925737
+"CV2 - known line in other season",5,5,"main",4420,1180,1000,498.862899598517
+"CV2 - known line in other season",5,5,"gxe",4420,1180,1000,500.412839550968
+"CV2 - known line in other season",6,1,"main",4455,1145,1000,505.373151195286
+"CV2 - known line in other season",6,1,"gxe",4455,1145,1000,507.207050149073
+"CV2 - known line in other season",6,2,"main",4454,1146,1000,503.390032159614
+"CV2 - known line in other season",6,2,"gxe",4454,1146,1000,504.972609386004
+"CV2 - known line in other season",6,3,"main",4513,1087,1000,500.827308384904
+"CV2 - known line in other season",6,3,"gxe",4513,1087,1000,502.842412255901
+"CV2 - known line in other season",6,4,"main",4490,1110,1000,501.479661498151
+"CV2 - known line in other season",6,4,"gxe",4490,1110,1000,502.271207421875
+"CV2 - known line in other season",6,5,"main",4488,1112,1000,510.206816185845
+"CV2 - known line in other season",6,5,"gxe",4488,1112,1000,512.464295581698
+"CV2 - known line in other season",7,1,"main",4456,1144,1000,507.511920065164
+"CV2 - known line in other season",7,1,"gxe",4456,1144,1000,509.721617551104
+"CV2 - known line in other season",7,2,"main",4518,1082,1000,503.835299770279
+"CV2 - known line in other season",7,2,"gxe",4518,1082,1000,505.428527325133
+"CV2 - known line in other season",7,3,"main",4392,1208,1000,507.913009378057
+"CV2 - known line in other season",7,3,"gxe",4392,1208,1000,507.467726384513
+"CV2 - known line in other season",7,4,"main",4489,1111,1000,506.551909826304
+"CV2 - known line in other season",7,4,"gxe",4489,1111,1000,507.385347306174
+"CV2 - known line in other season",7,5,"main",4545,1055,1000,495.341496950652
+"CV2 - known line in other season",7,5,"gxe",4545,1055,1000,497.198497341241
+"CV2 - known line in other season",8,1,"main",4425,1175,1000,501.040523556175
+"CV2 - known line in other season",8,1,"gxe",4425,1175,1000,502.349808437998
+"CV2 - known line in other season",8,2,"main",4486,1114,1000,498.418994328159
+"CV2 - known line in other season",8,2,"gxe",4486,1114,1000,498.717861304115
+"CV2 - known line in other season",8,3,"main",4459,1141,1000,507.003398882471
+"CV2 - known line in other season",8,3,"gxe",4459,1141,1000,508.156778486229
+"CV2 - known line in other season",8,4,"main",4553,1047,1000,510.980726432584
+"CV2 - known line in other season",8,4,"gxe",4553,1047,1000,513.453948815481
+"CV2 - known line in other season",8,5,"main",4477,1123,1000,505.587571932732
+"CV2 - known line in other season",8,5,"gxe",4477,1123,1000,507.83587457259
+"CV2 - known line in other season",9,1,"main",4466,1134,1000,513.151877644942
+"CV2 - known line in other season",9,1,"gxe",4466,1134,1000,513.952393951011
+"CV2 - known line in other season",9,2,"main",4523,1077,1000,510.724521716465
+"CV2 - known line in other season",9,2,"gxe",4523,1077,1000,513.712918101666
+"CV2 - known line in other season",9,3,"main",4472,1128,1000,498.570865362807
+"CV2 - known line in other season",9,3,"gxe",4472,1128,1000,500.1415971348
+"CV2 - known line in other season",9,4,"main",4468,1132,1000,500.869086819698
+"CV2 - known line in other season",9,4,"gxe",4468,1132,1000,502.093629159657
+"CV2 - known line in other season",9,5,"main",4471,1129,1000,503.339825349906
+"CV2 - known line in other season",9,5,"gxe",4471,1129,1000,503.779008709475
+"CV2 - known line in other season",10,1,"main",4493,1107,1000,500.424419321886
+"CV2 - known line in other season",10,1,"gxe",4493,1107,1000,502.140837176259
+"CV2 - known line in other season",10,2,"main",4536,1064,1000,506.805162868905
+"CV2 - known line in other season",10,2,"gxe",4536,1064,1000,508.532266277704
+"CV2 - known line in other season",10,3,"main",4472,1128,1000,505.782327870246
+"CV2 - known line in other season",10,3,"gxe",4472,1128,1000,506.832121847176
+"CV2 - known line in other season",10,4,"main",4438,1162,1000,497.798482578962
+"CV2 - known line in other season",10,4,"gxe",4438,1162,1000,499.699304734258
+"CV2 - known line in other season",10,5,"main",4461,1139,1000,511.573684078172
+"CV2 - known line in other season",10,5,"gxe",4461,1139,1000,511.18987689086
