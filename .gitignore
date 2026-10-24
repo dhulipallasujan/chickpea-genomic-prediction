@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+.r-library/
+data/raw/*
+!data/raw/README.md
+data/processed/*

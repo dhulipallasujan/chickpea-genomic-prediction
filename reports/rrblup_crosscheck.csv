@@ -1,0 +1,2 @@
+"fold","n_test","own_ridge_lambda","rrblup_reml_lambda","rmse_own_ridge","rmse_rrblup","prediction_correlation"
+1,1891,1000,1753.2966040574,525.708810362194,523.815091851826,0.99436461953929

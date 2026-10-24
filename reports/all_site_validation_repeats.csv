@@ -1,0 +1,232 @@
+"scenario","repeat_id","environment","model","n","rmse","pearson_r","spearman_rho","calibration_slope"
+"CV2 - known line in other environments",1,"ICARDA_2014-15","Environment mean",2545,78.7095789349604,NA,NA,NA
+"CV2 - known line in other environments",2,"ICARDA_2014-15","Environment mean",2545,78.749645911564,NA,NA,NA
+"CV2 - known line in other environments",3,"ICARDA_2014-15","Environment mean",2545,78.73311841564,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"ICARDA_2014-15","Environment mean",2545,82.1754370739801,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"ICARDA_2014-15","Environment mean",2545,82.4595352680757,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"ICARDA_2014-15","Environment mean",2545,81.865544357247,NA,NA,NA
+"CV2 - known line in other environments",1,"ICARDA_2015-16","Environment mean",2487,82.119409308264,NA,NA,NA
+"CV2 - known line in other environments",2,"ICARDA_2015-16","Environment mean",2487,82.0737870577636,NA,NA,NA
+"CV2 - known line in other environments",3,"ICARDA_2015-16","Environment mean",2487,82.0658013784143,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"ICARDA_2015-16","Environment mean",2487,82.3868126606583,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"ICARDA_2015-16","Environment mean",2487,82.4386869938404,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"ICARDA_2015-16","Environment mean",2487,82.4930564326018,NA,NA,NA
+"CV2 - known line in other environments",1,"ICRISAT_2014-15","Environment mean",2775,4.26284531151113,NA,NA,NA
+"CV2 - known line in other environments",2,"ICRISAT_2014-15","Environment mean",2775,4.26050102193646,NA,NA,NA
+"CV2 - known line in other environments",3,"ICRISAT_2014-15","Environment mean",2775,4.26000181149562,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"ICRISAT_2014-15","Environment mean",2775,4.27425286287927,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"ICRISAT_2014-15","Environment mean",2775,4.27200544484307,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"ICRISAT_2014-15","Environment mean",2775,4.26408082037747,NA,NA,NA
+"CV2 - known line in other environments",1,"ICRISAT_2015-16","Environment mean",2911,5.6973369918592,NA,NA,NA
+"CV2 - known line in other environments",2,"ICRISAT_2015-16","Environment mean",2911,5.69732459945177,NA,NA,NA
+"CV2 - known line in other environments",3,"ICRISAT_2015-16","Environment mean",2911,5.695673079654,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"ICRISAT_2015-16","Environment mean",2912,5.76555157880111,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"ICRISAT_2015-16","Environment mean",2912,5.74398286374979,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"ICRISAT_2015-16","Environment mean",2912,5.77452726774574,NA,NA,NA
+"CV2 - known line in other environments",1,"IIPR_2015-16","Environment mean",2373,102.981737362751,NA,NA,NA
+"CV2 - known line in other environments",2,"IIPR_2015-16","Environment mean",2373,103.018636611848,NA,NA,NA
+"CV2 - known line in other environments",3,"IIPR_2015-16","Environment mean",2373,102.989073721733,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"IIPR_2015-16","Environment mean",2373,108.675864398379,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"IIPR_2015-16","Environment mean",2373,109.107184938715,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"IIPR_2015-16","Environment mean",2373,108.257928608972,NA,NA,NA
+"CV2 - known line in other environments",1,"JAU_2014-15","Environment mean",2794,120.402321737281,NA,NA,NA
+"CV2 - known line in other environments",2,"JAU_2014-15","Environment mean",2794,120.507120189974,NA,NA,NA
+"CV2 - known line in other environments",3,"JAU_2014-15","Environment mean",2794,120.383476067509,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"JAU_2014-15","Environment mean",2794,125.046801960214,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"JAU_2014-15","Environment mean",2794,124.794116545549,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"JAU_2014-15","Environment mean",2794,124.094193004191,NA,NA,NA
+"CV2 - known line in other environments",1,"JAU_2015-16","Environment mean",2789,170.571928296893,NA,NA,NA
+"CV2 - known line in other environments",2,"JAU_2015-16","Environment mean",2789,170.534847517858,NA,NA,NA
+"CV2 - known line in other environments",3,"JAU_2015-16","Environment mean",2789,170.52752000909,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"JAU_2015-16","Environment mean",2789,173.51888196545,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"JAU_2015-16","Environment mean",2789,172.801809834794,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"JAU_2015-16","Environment mean",2789,173.178013073123,NA,NA,NA
+"CV2 - known line in other environments",1,"RAKCA_2014-15","Environment mean",2458,105.809791650503,NA,NA,NA
+"CV2 - known line in other environments",2,"RAKCA_2014-15","Environment mean",2458,105.873933012001,NA,NA,NA
+"CV2 - known line in other environments",3,"RAKCA_2014-15","Environment mean",2458,105.791753785165,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"RAKCA_2014-15","Environment mean",2458,108.604163010952,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"RAKCA_2014-15","Environment mean",2458,108.86362050413,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"RAKCA_2014-15","Environment mean",2458,107.899150009372,NA,NA,NA
+"CV2 - known line in other environments",1,"RAKCA_2015-16","Environment mean",2678,54.6478409985691,NA,NA,NA
+"CV2 - known line in other environments",2,"RAKCA_2015-16","Environment mean",2678,54.6570192744452,NA,NA,NA
+"CV2 - known line in other environments",3,"RAKCA_2015-16","Environment mean",2678,54.6948375896021,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"RAKCA_2015-16","Environment mean",2678,54.9250398922411,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"RAKCA_2015-16","Environment mean",2678,54.9700368386127,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"RAKCA_2015-16","Environment mean",2678,55.0950450165404,NA,NA,NA
+"CV2 - known line in other environments",1,"RARI_2014-15","Environment mean",765,67.5842048158958,NA,NA,NA
+"CV2 - known line in other environments",2,"RARI_2014-15","Environment mean",765,67.6246887870854,NA,NA,NA
+"CV2 - known line in other environments",3,"RARI_2014-15","Environment mean",765,67.6488507169472,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"RARI_2014-15","Environment mean",765,68.4089465060573,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"RARI_2014-15","Environment mean",765,68.6385839000766,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"RARI_2014-15","Environment mean",765,68.5717645927713,NA,NA,NA
+"CV2 - known line in other environments",1,"RARI_2015-16","Environment mean",2290,36.4282468547523,NA,NA,NA
+"CV2 - known line in other environments",2,"RARI_2015-16","Environment mean",2290,36.4137277722038,NA,NA,NA
+"CV2 - known line in other environments",3,"RARI_2015-16","Environment mean",2290,36.4208975460186,NA,NA,NA
+"Grouped CV1 - new genetic clusters",1,"RARI_2015-16","Environment mean",2290,36.4767724362024,NA,NA,NA
+"Grouped CV1 - new genetic clusters",2,"RARI_2015-16","Environment mean",2290,36.500511451999,NA,NA,NA
+"Grouped CV1 - new genetic clusters",3,"RARI_2015-16","Environment mean",2290,36.4488684435475,NA,NA,NA
+"CV2 - known line in other environments",1,"ICARDA_2014-15","Known-line phenotype + environment shift",2545,75.5295668387755,0.338708192931648,0.347495162107476,0.642781513896746
+"CV2 - known line in other environments",2,"ICARDA_2014-15","Known-line phenotype + environment shift",2545,75.5259579030447,0.338144521638724,0.349234842408692,0.644201621760116
+"CV2 - known line in other environments",3,"ICARDA_2014-15","Known-line phenotype + environment shift",2545,75.5130635016243,0.337364515993197,0.344834057713776,0.645237799252621
+"CV2 - known line in other environments",1,"ICARDA_2015-16","Known-line phenotype + environment shift",2487,83.1214292716668,0.235225011805429,0.245968714822862,0.451100077864385
+"CV2 - known line in other environments",2,"ICARDA_2015-16","Known-line phenotype + environment shift",2487,83.5228035789668,0.222166531317174,0.232567309509309,0.430641914921806
+"CV2 - known line in other environments",3,"ICARDA_2015-16","Known-line phenotype + environment shift",2487,83.2677287156911,0.230683497725612,0.243153517568628,0.443613923528082
+"CV2 - known line in other environments",1,"ICRISAT_2014-15","Known-line phenotype + environment shift",2775,47.1506447949495,0.106948951036902,0.109366002863323,0.00962045841842236
+"CV2 - known line in other environments",2,"ICRISAT_2014-15","Known-line phenotype + environment shift",2775,46.8652035062002,0.113012287311563,0.117067287068556,0.010225870479256
+"CV2 - known line in other environments",3,"ICRISAT_2014-15","Known-line phenotype + environment shift",2775,46.6540786274994,0.115356019615974,0.116461672664713,0.0104737457952439
+"CV2 - known line in other environments",1,"ICRISAT_2015-16","Known-line phenotype + environment shift",2911,47.0176238624079,0.136261149548678,0.135302893938552,0.0163693648770587
+"CV2 - known line in other environments",2,"ICRISAT_2015-16","Known-line phenotype + environment shift",2911,47.1116648793289,0.142316799104909,0.137943245729965,0.0170443573920986
+"CV2 - known line in other environments",3,"ICRISAT_2015-16","Known-line phenotype + environment shift",2911,47.2956483852596,0.140938495923753,0.137830396724363,0.016817761040009
+"CV2 - known line in other environments",1,"IIPR_2015-16","Known-line phenotype + environment shift",2373,102.407290625204,0.219056994003412,0.21998203032161,0.530688747214939
+"CV2 - known line in other environments",2,"IIPR_2015-16","Known-line phenotype + environment shift",2373,102.652332195354,0.21548350103762,0.213631560839853,0.516495101600569
+"CV2 - known line in other environments",3,"IIPR_2015-16","Known-line phenotype + environment shift",2373,102.470068167004,0.217761157840964,0.220109081909409,0.527108822462409
+"CV2 - known line in other environments",1,"JAU_2014-15","Known-line phenotype + environment shift",2794,111.592979253001,0.378180359750452,0.386704841915474,1.16425701680802
+"CV2 - known line in other environments",2,"JAU_2014-15","Known-line phenotype + environment shift",2794,111.812422920816,0.373118368302626,0.382412452846274,1.15297503611097
+"CV2 - known line in other environments",3,"JAU_2014-15","Known-line phenotype + environment shift",2794,111.375520616393,0.383501951309992,0.395442358424434,1.18348904963861
+"CV2 - known line in other environments",1,"JAU_2015-16","Known-line phenotype + environment shift",2789,164.385167994575,0.273732179260004,0.288247627499928,1.31147690614804
+"CV2 - known line in other environments",2,"JAU_2015-16","Known-line phenotype + environment shift",2789,164.715431274161,0.264301822349046,0.280698609634478,1.25568734326043
+"CV2 - known line in other environments",3,"JAU_2015-16","Known-line phenotype + environment shift",2789,164.533518276037,0.268673626241188,0.287890854395735,1.2646451860754
+"CV2 - known line in other environments",1,"RAKCA_2014-15","Known-line phenotype + environment shift",2458,101.614521004056,0.2949048896062,0.297611993687022,0.750765181722523
+"CV2 - known line in other environments",2,"RAKCA_2014-15","Known-line phenotype + environment shift",2458,102.016456650622,0.285301479565173,0.291937078959462,0.728188443586229
+"CV2 - known line in other environments",3,"RAKCA_2014-15","Known-line phenotype + environment shift",2458,102.022522354328,0.284664804321232,0.293195386417641,0.729452613100726
+"CV2 - known line in other environments",1,"RAKCA_2015-16","Known-line phenotype + environment shift",2678,62.2043014129516,0.220497187132942,0.231888978807262,0.272955882849691
+"CV2 - known line in other environments",2,"RAKCA_2015-16","Known-line phenotype + environment shift",2678,62.4499397169668,0.217967740851501,0.229248933668495,0.268089028763355
+"CV2 - known line in other environments",3,"RAKCA_2015-16","Known-line phenotype + environment shift",2678,62.4397145311762,0.219366526028137,0.2297581219744,0.269319998521221
+"CV2 - known line in other environments",1,"RARI_2014-15","Known-line phenotype + environment shift",765,75.7740903676748,0.120649748121189,0.116058462133858,0.187552225296924
+"CV2 - known line in other environments",2,"RARI_2014-15","Known-line phenotype + environment shift",765,75.8260206589821,0.11678770996264,0.113316920914551,0.182452667132017
+"CV2 - known line in other environments",3,"RARI_2014-15","Known-line phenotype + environment shift",765,75.4506849269284,0.131110547782807,0.12394031775345,0.203009892193548
+"CV2 - known line in other environments",1,"RARI_2015-16","Known-line phenotype + environment shift",2290,56.2887333833038,0.04899755849039,0.0333185624784491,0.0399082879300559
+"CV2 - known line in other environments",2,"RARI_2015-16","Known-line phenotype + environment shift",2290,56.2935097548126,0.0538649330176193,0.0314014701744973,0.0437025178537654
+"CV2 - known line in other environments",3,"RARI_2015-16","Known-line phenotype + environment shift",2290,56.2897333813097,0.0511738902795006,0.031396151157869,0.0416174522915456
+"CV2 - known line in other environments",1,"ICARDA_2014-15","Marker main + GxE",2545,72.9986094840574,0.399178983432812,0.405019501466151,1.54770024842276
+"CV2 - known line in other environments",2,"ICARDA_2014-15","Marker main + GxE",2545,73.0124774703723,0.398189275205094,0.403174767271717,1.53994986134158
+"CV2 - known line in other environments",3,"ICARDA_2014-15","Marker main + GxE",2545,73.0019438302594,0.39901422045828,0.403809180035308,1.54692806016328
+"Grouped CV1 - new genetic clusters",1,"ICARDA_2014-15","Marker main + GxE",2545,73.9470977556407,0.35436995514716,0.367360903813695,1.30961018711297
+"Grouped CV1 - new genetic clusters",2,"ICARDA_2014-15","Marker main + GxE",2545,74.7306536526977,0.340830511877795,0.34773062960458,1.63882937075366
+"Grouped CV1 - new genetic clusters",3,"ICARDA_2014-15","Marker main + GxE",2545,74.5806576437052,0.356442193032407,0.362974370713352,1.74117886060863
+"CV2 - known line in other environments",1,"ICARDA_2015-16","Marker main + GxE",2487,79.7839371305713,0.23242241274588,0.233868755586754,1.06940808343518
+"CV2 - known line in other environments",2,"ICARDA_2015-16","Marker main + GxE",2487,79.7326636013984,0.235214147097974,0.235731166851631,1.08232647433657
+"CV2 - known line in other environments",3,"ICARDA_2015-16","Marker main + GxE",2487,79.8356303990352,0.229554326864509,0.230755831629631,1.05226409955122
+"Grouped CV1 - new genetic clusters",1,"ICARDA_2015-16","Marker main + GxE",2487,82.8304727717868,0.123574814337467,0.136850063809283,0.412412858197747
+"Grouped CV1 - new genetic clusters",2,"ICARDA_2015-16","Marker main + GxE",2487,82.1491999686394,0.128161653387798,0.140333920977674,0.488385878401356
+"Grouped CV1 - new genetic clusters",3,"ICARDA_2015-16","Marker main + GxE",2487,81.6487405168055,0.144885533384608,0.153744724761306,0.590454276266516
+"CV2 - known line in other environments",1,"ICRISAT_2014-15","Marker main + GxE",2775,7.83827965027743,0.0648712318552063,0.0697874587032943,0.0402590760677108
+"CV2 - known line in other environments",2,"ICRISAT_2014-15","Marker main + GxE",2775,7.84623640079662,0.0631486736985043,0.0691133209427938,0.0391802584948457
+"CV2 - known line in other environments",3,"ICRISAT_2014-15","Marker main + GxE",2775,7.82525462328404,0.0630151109665503,0.0703755062610448,0.0392428922225789
+"Grouped CV1 - new genetic clusters",1,"ICRISAT_2014-15","Marker main + GxE",2775,7.28203520024102,0.0470619199535272,0.0648340377692895,0.033503678640591
+"Grouped CV1 - new genetic clusters",2,"ICRISAT_2014-15","Marker main + GxE",2775,10.8609160886166,0.0691132744150659,0.0797490767627074,0.0287561486431551
+"Grouped CV1 - new genetic clusters",3,"ICRISAT_2014-15","Marker main + GxE",2775,10.8621804495842,0.0586966969399689,0.0677658601035809,0.0247241653101341
+"CV2 - known line in other environments",1,"ICRISAT_2015-16","Marker main + GxE",2911,8.47317919724881,0.110727819055081,0.105873201355001,0.090914374230005
+"CV2 - known line in other environments",2,"ICRISAT_2015-16","Marker main + GxE",2911,8.45859767616231,0.115246787567445,0.107874594796984,0.0945057754819555
+"CV2 - known line in other environments",3,"ICRISAT_2015-16","Marker main + GxE",2911,8.41825061098922,0.114425783372426,0.107324875716547,0.0946433812210962
+"Grouped CV1 - new genetic clusters",1,"ICRISAT_2015-16","Marker main + GxE",2912,7.63328629781982,0.122866027034828,0.118204232532808,0.124001727894796
+"Grouped CV1 - new genetic clusters",2,"ICRISAT_2015-16","Marker main + GxE",2912,10.8049674999139,0.136467796791585,0.144041637557535,0.0780679754821037
+"Grouped CV1 - new genetic clusters",3,"ICRISAT_2015-16","Marker main + GxE",2912,10.766281676225,0.131452058476478,0.135353344685677,0.0763004648963918
+"CV2 - known line in other environments",1,"IIPR_2015-16","Marker main + GxE",2373,96.5129066988734,0.350282197281012,0.340162278950533,1.12916114842018
+"CV2 - known line in other environments",2,"IIPR_2015-16","Marker main + GxE",2373,96.5172069864031,0.350102935772269,0.339389398333766,1.12707224899208
+"CV2 - known line in other environments",3,"IIPR_2015-16","Marker main + GxE",2373,96.3918549183357,0.353929601597569,0.3435686656951,1.14341216906015
+"Grouped CV1 - new genetic clusters",1,"IIPR_2015-16","Marker main + GxE",2373,100.033033052054,0.24059507852494,0.247946432968962,0.849587931410234
+"Grouped CV1 - new genetic clusters",2,"IIPR_2015-16","Marker main + GxE",2373,99.9663648604546,0.248150413601643,0.253866647347529,1.04156043361127
+"Grouped CV1 - new genetic clusters",3,"IIPR_2015-16","Marker main + GxE",2373,100.436841257011,0.24063637131861,0.24884508011046,1.06709194190873
+"CV2 - known line in other environments",1,"JAU_2014-15","Marker main + GxE",2794,111.714317742068,0.375269487156397,0.379632293352826,1.15531818235484
+"CV2 - known line in other environments",2,"JAU_2014-15","Marker main + GxE",2794,111.860654666812,0.371891735635526,0.375449428482528,1.14745252884504
+"CV2 - known line in other environments",3,"JAU_2014-15","Marker main + GxE",2794,111.500038340877,0.380316402068052,0.383673687691084,1.17019913317546
+"Grouped CV1 - new genetic clusters",1,"JAU_2014-15","Marker main + GxE",2794,113.766519112675,0.333352368988295,0.345559821147619,1.0727242676264
+"Grouped CV1 - new genetic clusters",2,"JAU_2014-15","Marker main + GxE",2794,112.774644359344,0.357020506875127,0.357881121350129,1.26529337532346
+"Grouped CV1 - new genetic clusters",3,"JAU_2014-15","Marker main + GxE",2794,112.626705131971,0.365586004963248,0.366751258507122,1.35828293577925
+"CV2 - known line in other environments",1,"JAU_2015-16","Marker main + GxE",2789,165.117364623246,0.251914294154051,0.255175436614573,1.14895533600291
+"CV2 - known line in other environments",2,"JAU_2015-16","Marker main + GxE",2789,164.955935466864,0.256172281108184,0.261353504929923,1.17079230449845
+"CV2 - known line in other environments",3,"JAU_2015-16","Marker main + GxE",2789,164.930844799165,0.256510384174211,0.259718313347682,1.16252164023511
+"Grouped CV1 - new genetic clusters",1,"JAU_2015-16","Marker main + GxE",2789,168.073394790104,0.182438052345818,0.196117851218081,0.861185755725748
+"Grouped CV1 - new genetic clusters",2,"JAU_2015-16","Marker main + GxE",2789,165.947238835691,0.233120276205633,0.235140203299714,1.19078330739846
+"Grouped CV1 - new genetic clusters",3,"JAU_2015-16","Marker main + GxE",2789,165.656876470978,0.242561895797351,0.242342565590751,1.26358738007032
+"CV2 - known line in other environments",1,"RAKCA_2014-15","Marker main + GxE",2458,100.893225852413,0.301791923695472,0.30102969485213,1.10391790896939
+"CV2 - known line in other environments",2,"RAKCA_2014-15","Marker main + GxE",2458,100.933486261102,0.300321087287222,0.298668362212798,1.09265884642311
+"CV2 - known line in other environments",3,"RAKCA_2014-15","Marker main + GxE",2458,100.82397041443,0.304042411928021,0.302617654716894,1.111004478955
+"Grouped CV1 - new genetic clusters",1,"RAKCA_2014-15","Marker main + GxE",2458,102.049401798448,0.265537252631158,0.27347798922864,0.907390484143425
+"Grouped CV1 - new genetic clusters",2,"RAKCA_2014-15","Marker main + GxE",2458,101.890526874508,0.270749131207532,0.270895745671466,1.11846206849528
+"Grouped CV1 - new genetic clusters",3,"RAKCA_2014-15","Marker main + GxE",2458,101.882556365159,0.274689164006011,0.276686496948375,1.22346494731849
+"CV2 - known line in other environments",1,"RAKCA_2015-16","Marker main + GxE",2678,53.5816566194082,0.198251436715404,0.208774549595232,0.853155941967253
+"CV2 - known line in other environments",2,"RAKCA_2015-16","Marker main + GxE",2678,53.6125932791887,0.195821506439226,0.208338555866215,0.843727946651562
+"CV2 - known line in other environments",3,"RAKCA_2015-16","Marker main + GxE",2678,53.6572247399677,0.192605226110211,0.203653830882952,0.824959388980817
+"Grouped CV1 - new genetic clusters",1,"RAKCA_2015-16","Marker main + GxE",2678,54.3874488189124,0.148484696973186,0.159752949754938,0.565480082348327
+"Grouped CV1 - new genetic clusters",2,"RAKCA_2015-16","Marker main + GxE",2678,54.5951767169313,0.132867612398673,0.148101340101107,0.515358957810607
+"Grouped CV1 - new genetic clusters",3,"RAKCA_2015-16","Marker main + GxE",2678,54.1285310138955,0.161837457028914,0.172298920150223,0.652667516936436
+"CV2 - known line in other environments",1,"RARI_2014-15","Marker main + GxE",765,67.4532833385757,0.125222119204605,0.128897320407242,0.521937504155639
+"CV2 - known line in other environments",2,"RARI_2014-15","Marker main + GxE",765,67.4884925563945,0.123988857080425,0.126076856003302,0.512687472708337
+"CV2 - known line in other environments",3,"RARI_2014-15","Marker main + GxE",765,67.5975728291435,0.117339052733895,0.117965839752846,0.485076214280287
+"Grouped CV1 - new genetic clusters",1,"RARI_2014-15","Marker main + GxE",765,68.4119038160529,0.0348647870881938,0.0648168659942935,0.18101633347939
+"Grouped CV1 - new genetic clusters",2,"RARI_2014-15","Marker main + GxE",765,67.6898813597773,0.110941397484777,0.127564512504564,0.463089625344414
+"Grouped CV1 - new genetic clusters",3,"RARI_2014-15","Marker main + GxE",765,67.684331183701,0.102910290437009,0.122292296132103,0.461541611861235
+"CV2 - known line in other environments",1,"RARI_2015-16","Marker main + GxE",2290,37.0193192248659,0.048731332077376,0.0409248117767837,0.204317151221233
+"CV2 - known line in other environments",2,"RARI_2015-16","Marker main + GxE",2290,37.0141316654586,0.0499923417688003,0.039366253427738,0.208888877433388
+"CV2 - known line in other environments",3,"RARI_2015-16","Marker main + GxE",2290,37.053689748652,0.0439712548033984,0.0365267748996236,0.185059297340015
+"Grouped CV1 - new genetic clusters",1,"RARI_2015-16","Marker main + GxE",2290,36.98936218659,0.0426677798608522,0.0262369070476287,0.190630435212938
+"Grouped CV1 - new genetic clusters",2,"RARI_2015-16","Marker main + GxE",2290,37.6133649342165,0.0532033374991889,0.0348959294269951,0.168154977242127
+"Grouped CV1 - new genetic clusters",3,"RARI_2015-16","Marker main + GxE",2290,37.5161244442282,0.053720015893802,0.0420813143927896,0.176477035111836
+"CV2 - known line in other environments",1,"ICARDA_2014-15","Marker main effects",2545,73.1116141941661,0.397590273028207,0.404776091258722,1.58116087836504
+"CV2 - known line in other environments",2,"ICARDA_2014-15","Marker main effects",2545,73.1299245340545,0.396357291668454,0.402636448270304,1.5721998316091
+"CV2 - known line in other environments",3,"ICARDA_2014-15","Marker main effects",2545,73.1087416332717,0.397648542371499,0.403539368266733,1.58056469510498
+"Grouped CV1 - new genetic clusters",1,"ICARDA_2014-15","Marker main effects",2545,74.4054593610744,0.362758648623142,0.373584080191542,1.7851900350605
+"Grouped CV1 - new genetic clusters",2,"ICARDA_2014-15","Marker main effects",2545,74.7274792632871,0.341096687417929,0.348954583329579,1.64760213510194
+"Grouped CV1 - new genetic clusters",3,"ICARDA_2014-15","Marker main effects",2545,74.4727042170157,0.359205656709354,0.366135656836606,1.72729613308072
+"CV2 - known line in other environments",1,"ICARDA_2015-16","Marker main effects",2487,80.3046760540131,0.206942417290005,0.207046876223308,0.845729287126477
+"CV2 - known line in other environments",2,"ICARDA_2015-16","Marker main effects",2487,80.2794187240303,0.208268267350846,0.208332761712654,0.848887321538652
+"CV2 - known line in other environments",3,"ICARDA_2015-16","Marker main effects",2487,80.3007887173764,0.207250334972977,0.207021926995877,0.844238185550058
+"Grouped CV1 - new genetic clusters",1,"ICARDA_2015-16","Marker main effects",2487,81.4375532798167,0.160485746524774,0.175744002738916,0.616646166608703
+"Grouped CV1 - new genetic clusters",2,"ICARDA_2015-16","Marker main effects",2487,81.5465618679627,0.155286206021369,0.160653550700469,0.580873413318864
+"Grouped CV1 - new genetic clusters",3,"ICARDA_2015-16","Marker main effects",2487,81.0772371653957,0.170507770605481,0.170504696846184,0.694602388612271
+"CV2 - known line in other environments",1,"ICRISAT_2014-15","Marker main effects",2775,20.6307070415513,0.0706743931801822,0.0751365964853091,0.0146898233932852
+"CV2 - known line in other environments",2,"ICRISAT_2014-15","Marker main effects",2775,20.6260700928919,0.0697892904646283,0.0749414848557417,0.0145119491447937
+"CV2 - known line in other environments",3,"ICRISAT_2014-15","Marker main effects",2775,20.6244464892443,0.0690927430991212,0.0743191814767963,0.0143703662578893
+"Grouped CV1 - new genetic clusters",1,"ICRISAT_2014-15","Marker main effects",2775,24.0469286726623,0.070300942160127,0.075031253498668,0.0126677791394229
+"Grouped CV1 - new genetic clusters",2,"ICRISAT_2014-15","Marker main effects",2775,24.2244970049338,0.0754440700982283,0.07982929967852,0.013308038859224
+"Grouped CV1 - new genetic clusters",3,"ICRISAT_2014-15","Marker main effects",2775,23.0906538142345,0.0635464277045739,0.0704211800187076,0.0119214969370207
+"CV2 - known line in other environments",1,"ICRISAT_2015-16","Marker main effects",2911,20.7143069395408,0.112421938451021,0.122677352618848,0.0311300995989869
+"CV2 - known line in other environments",2,"ICRISAT_2015-16","Marker main effects",2911,20.7163118702161,0.114926828867649,0.124377261123153,0.0317977343825415
+"CV2 - known line in other environments",3,"ICRISAT_2015-16","Marker main effects",2911,20.6536892183263,0.113977868579735,0.123284675356897,0.0316438238855003
+"Grouped CV1 - new genetic clusters",1,"ICRISAT_2015-16","Marker main effects",2912,23.9867214753753,0.108227531510615,0.114092467230085,0.0261359277401297
+"Grouped CV1 - new genetic clusters",2,"ICRISAT_2015-16","Marker main effects",2912,24.1418506817175,0.126423319347954,0.138381895817657,0.029797685681028
+"Grouped CV1 - new genetic clusters",3,"ICRISAT_2015-16","Marker main effects",2912,22.6836659083565,0.13209034139005,0.143767795867804,0.0334733166246087
+"CV2 - known line in other environments",1,"IIPR_2015-16","Marker main effects",2373,98.2077417684186,0.325232384317988,0.324413868286667,1.63071605671766
+"CV2 - known line in other environments",2,"IIPR_2015-16","Marker main effects",2373,98.1948035188301,0.325681358603568,0.322161023314128,1.63099556966779
+"CV2 - known line in other environments",3,"IIPR_2015-16","Marker main effects",2373,98.1635487320622,0.3273839161718,0.326397368650698,1.64277223335449
+"Grouped CV1 - new genetic clusters",1,"IIPR_2015-16","Marker main effects",2373,100.461783313885,0.24105666383813,0.244056711390601,1.73290807456271
+"Grouped CV1 - new genetic clusters",2,"IIPR_2015-16","Marker main effects",2373,100.710720336734,0.222093710417229,0.228972946418247,1.51861635794058
+"Grouped CV1 - new genetic clusters",3,"IIPR_2015-16","Marker main effects",2373,100.54537874701,0.241233028366549,0.242029248075579,1.5246059285109
+"CV2 - known line in other environments",1,"JAU_2014-15","Marker main effects",2794,114.353867028194,0.373184980656032,0.379584174359267,2.22420065992536
+"CV2 - known line in other environments",2,"JAU_2014-15","Marker main effects",2794,114.473138152522,0.36727540071254,0.374164733165765,2.18576846447542
+"CV2 - known line in other environments",3,"JAU_2014-15","Marker main effects",2794,114.280141467401,0.376727024867677,0.382470126914225,2.24612620710032
+"Grouped CV1 - new genetic clusters",1,"JAU_2014-15","Marker main effects",2794,116.925438536083,0.299202032070598,0.309342484848765,2.57425961883049
+"Grouped CV1 - new genetic clusters",2,"JAU_2014-15","Marker main effects",2794,116.518361897183,0.319010863656381,0.323493803292839,2.62565172788947
+"Grouped CV1 - new genetic clusters",3,"JAU_2014-15","Marker main effects",2794,116.259250859879,0.329551893105409,0.339130507719278,2.5559011671412
+"CV2 - known line in other environments",1,"JAU_2015-16","Marker main effects",2789,166.701449893293,0.245337640311209,0.251095252622812,2.05561396014172
+"CV2 - known line in other environments",2,"JAU_2015-16","Marker main effects",2789,166.621907405764,0.2497946736073,0.256255167790442,2.10320551980983
+"CV2 - known line in other environments",3,"JAU_2015-16","Marker main effects",2789,166.605461765737,0.250210785409072,0.25597898085217,2.10067514321247
+"Grouped CV1 - new genetic clusters",1,"JAU_2015-16","Marker main effects",2789,168.687707110987,0.164351527534739,0.166967497453993,1.82667616672627
+"Grouped CV1 - new genetic clusters",2,"JAU_2015-16","Marker main effects",2789,167.627316925196,0.2276892883284,0.231379963173622,2.4485197891792
+"Grouped CV1 - new genetic clusters",3,"JAU_2015-16","Marker main effects",2789,167.847005867331,0.221229142597229,0.226688564573998,2.43653210750289
+"CV2 - known line in other environments",1,"RAKCA_2014-15","Marker main effects",2458,101.546376180602,0.301014277142127,0.301526087554902,1.57792618588818
+"CV2 - known line in other environments",2,"RAKCA_2014-15","Marker main effects",2458,101.623735193038,0.296914782092052,0.296344664059456,1.55035809143006
+"CV2 - known line in other environments",3,"RAKCA_2014-15","Marker main effects",2458,101.482798185626,0.303717030095362,0.303040015122082,1.58761953930386
+"Grouped CV1 - new genetic clusters",1,"RAKCA_2014-15","Marker main effects",2458,102.562451573757,0.272942401483869,0.27840153583287,1.7876534148845
+"Grouped CV1 - new genetic clusters",2,"RAKCA_2014-15","Marker main effects",2458,102.781870389776,0.257772361327932,0.256532561870765,1.65639406401224
+"Grouped CV1 - new genetic clusters",3,"RAKCA_2014-15","Marker main effects",2458,102.427464563056,0.277046713605451,0.276674267183435,1.73368601412287
+"CV2 - known line in other environments",1,"RAKCA_2015-16","Marker main effects",2678,55.126059632269,0.16035348898417,0.177840246889067,0.433753151621385
+"CV2 - known line in other environments",2,"RAKCA_2015-16","Marker main effects",2678,55.1522060681732,0.158693963045072,0.176405632488557,0.429991280349567
+"CV2 - known line in other environments",3,"RAKCA_2015-16","Marker main effects",2678,55.1907711146932,0.157163513896658,0.174230170044399,0.425041181671795
+"Grouped CV1 - new genetic clusters",1,"RAKCA_2015-16","Marker main effects",2678,56.3468090018191,0.125430927800254,0.14766824268787,0.313939975835321
+"Grouped CV1 - new genetic clusters",2,"RAKCA_2015-16","Marker main effects",2678,56.4305972297492,0.121892165723389,0.140062042314738,0.299263507263696
+"Grouped CV1 - new genetic clusters",3,"RAKCA_2015-16","Marker main effects",2678,55.4952637375214,0.144084868968864,0.156284968285857,0.388418233570737
+"CV2 - known line in other environments",1,"RARI_2014-15","Marker main effects",765,67.9655272676175,0.128904176722182,0.135620631850984,0.429578926076603
+"CV2 - known line in other environments",2,"RARI_2014-15","Marker main effects",765,67.9553346819447,0.13024144105222,0.13578687043478,0.431930324950776
+"CV2 - known line in other environments",3,"RARI_2014-15","Marker main effects",765,68.0091431318636,0.128164796475954,0.130758045870247,0.423623653244852
+"Grouped CV1 - new genetic clusters",1,"RARI_2014-15","Marker main effects",765,67.849470709573,0.138970528474065,0.132806547705901,0.458858602153086
+"Grouped CV1 - new genetic clusters",2,"RARI_2014-15","Marker main effects",765,67.996828173657,0.132240394958733,0.140227390062789,0.428630969749087
+"Grouped CV1 - new genetic clusters",3,"RARI_2014-15","Marker main effects",765,67.8111792639064,0.129031980634065,0.139482617397736,0.450675392407156
+"CV2 - known line in other environments",1,"RARI_2015-16","Marker main effects",2290,40.614011438964,0.055775814891077,0.0413244195141456,0.100859455035832
+"CV2 - known line in other environments",2,"RARI_2015-16","Marker main effects",2290,40.6590186557333,0.0543828689964737,0.0399717379851968,0.0981244296655463
+"CV2 - known line in other environments",3,"RARI_2015-16","Marker main effects",2290,40.6550247020173,0.0551650491485587,0.0404903785895199,0.099423603314239
+"Grouped CV1 - new genetic clusters",1,"RARI_2015-16","Marker main effects",2290,42.2101419269814,0.0567905642270928,0.0368411246974898,0.0893932774142041
+"Grouped CV1 - new genetic clusters",2,"RARI_2015-16","Marker main effects",2290,42.3117849168891,0.0565043587087902,0.0364315504219307,0.0869317563854025
+"Grouped CV1 - new genetic clusters",3,"RARI_2015-16","Marker main effects",2290,41.6906975768871,0.0536125489485125,0.0401982845674634,0.0885347479530262

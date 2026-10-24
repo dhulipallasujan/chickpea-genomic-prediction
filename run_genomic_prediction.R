@@ -1,7 +1,8 @@
 # Run the full analysis from the repository root.
 scripts <- c("R/05_genomic_prediction.R", "R/06_multienvironment_validation.R",
              "R/07_summarize_validation.R", "R/08_figures_and_tables.R",
-             "R/09_rrblup_crosscheck.R")
+             "R/09_rrblup_crosscheck.R", "R/10_all_site_validation.R",
+             "R/11_verify_saved_predictions.R")
 if (!all(file.exists(scripts))) stop("Run this file from the repository root; required analysis scripts are missing.")
 executable <- if (.Platform$OS.type == "windows") "Rscript.exe" else "Rscript"
 for (script in scripts) {

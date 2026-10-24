@@ -1,0 +1,9 @@
+Saved out-of-fold prediction checks passed.
+Two-season repeat groups checked: 140
+Two-season summary groups checked: 14
+All-site repeat groups checked: 231
+All-site summary groups checked: 77
+Leave-one-location groups checked: 12
+Marker-density summary groups checked: 4
+Leave-one-season prediction rows exported: 11200
+Leave-one-season summary rebuilt from its saved prediction rows.

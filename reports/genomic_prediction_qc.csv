@@ -1,0 +1,2 @@
+"target_environment","target_trait","phenotype_rows_with_trait","matched_accessions","chromosomes","qc_passed_before_post_qc_thinning","markers_after_qc","source_marker_step","post_qc_stride","min_maf","max_marker_missing","marker_missing_rate_before_imputation","folds","repeats","inner_folds","lambda_grid","seed"
+"ICRISAT_2014-15","GY",2807,2807,8,952,194,500,5,0.05,0.2,0.0654126833138068,5,5,3,"1;3.16227766016838;10;31.6227766016838;100;316.227766016838;1000;3162.27766016838;10000;31622.7766016838;1e+05",20261020

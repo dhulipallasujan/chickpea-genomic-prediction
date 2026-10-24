@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.2.0
+
+- Reran the two-season analysis with the expanded ridge-penalty grid and regenerated the results table and figures from the saved predictions.
+- Added all-site yield-per-plant analysis for 11 site-year sheets across six locations, including grouped CV1, known-line CV2, and leave-one-location-out validation.
+- Saved leave-one-location and leave-one-season out-of-fold predictions; added independent checks that reproduce validation summaries from saved predictions.
+- Generalized marker-by-environment features to support more than two environments and repaired contradictory ridge-boundary test expectations.
+- Added a compact all-site marker panel, base-R figures, and GitHub exclusions for raw data, local libraries, caches, and R session files.
+
 ## 2.1.0
 
 - Fixed the ridge penalty grid (1 to 1e5, log-spaced); v2.0 selected the 1000 ceiling in every fold. Added grid-edge warnings and QC reporting.

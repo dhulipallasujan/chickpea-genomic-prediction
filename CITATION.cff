@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "For the software, cite this repository. For the data, cite the ICRISAT CicerSeq portal and the study listed under references. Follow the data-use request shown by ICRISAT."
-title: "Chickpea genomic prediction across seasons"
-version: 2.1.0
-date-released: 2026-10-21
+title: "Chickpea genomic prediction across seasons and locations"
+version: 2.2.0
+date-released: 2026-10-24
 type: software
 authors:
   - name: "Sujan"
