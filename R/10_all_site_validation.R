@@ -2,6 +2,7 @@
 # Site-year sheets use YPP, except the two ICRISAT sheets, which label the
 # corresponding trait YPPlnt. Locations, years, IDs, and duplicated cells are
 # audited and written to reports before model comparisons.
+options(timeout = max(600, getOption("timeout")))
 
 source("R/gxe_utils.R")
 if (!requireNamespace("readxl", quietly = TRUE)) {

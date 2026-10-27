@@ -1,5 +1,6 @@
 # Genome-wide prediction on the public ICRISAT CicerSeq chickpea panel.
 # Source files are downloaded locally and are excluded from Git.
+options(timeout = max(600, getOption("timeout")))
 
 required <- c("readxl")
 missing <- required[!vapply(required, requireNamespace, logical(1), quietly = TRUE)]

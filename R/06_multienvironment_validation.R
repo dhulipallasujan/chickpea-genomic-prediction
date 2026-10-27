@@ -1,6 +1,7 @@
 # Multi-environment chickpea genomic prediction and validation.
 # Uses two ICRISAT seasons with grain-yield observations; this is across-year
 # validation at one location, not validation at an independent site.
+options(timeout = max(600, getOption("timeout")))
 
 source("R/gxe_utils.R")
 if (!requireNamespace("readxl", quietly = TRUE)) {
