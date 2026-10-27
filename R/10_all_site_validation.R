@@ -350,7 +350,7 @@ write.csv(env_counts, "reports/all_site_environment_counts.csv", row.names = FAL
 write.csv(data.frame(
   source_workbook = basename(phenotype_file), common_trait = "yield per plant",
   environments = length(environment_levels), locations = length(location_levels),
-  phenotype_records_after_aggregation = nrow(phenotype),
+  phenotype_records_after_aggregation = phenotype_before_match,
   phenotype_records_before_marker_match = phenotype_before_match,
   marker_matched_records = nrow(phenotype), unique_lines = length(unique(phenotype$line_id)),
   lines_in_two_or_more_environments = length(paired_lines),
